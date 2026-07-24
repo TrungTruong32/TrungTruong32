@@ -6,7 +6,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I+am+Truong+Quoc+Trung;Nice+to+meet+you!&center=true&size=30">
   </a>
 </h1>
-  <h3>Full-Stack Developer | Tech Enthusiast | Open to Collaboration</h3>
+  <h3>AI & Data Solutions Engineer | Tech Enthusiast | Open to Collaboration</h3>
     
 </div>
 
