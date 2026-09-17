@@ -56,39 +56,37 @@ AI professional with a background in Applied Mathematics & Computer Science, exp
 
 
 ### 👨‍💻 Repositories 👨‍💻
-<br>
 
-<div width="100%" align="center">
+<div align="center">
 
-<a align="left" href="https://github.com/TrungTruong32/Web-Restaurant" title="Web Restaurant">
-  <img align="left" height="250"
-       src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=TrungTruong32&repo=Web-Restaurant&theme=react&border_radius=10" />
-</a>
-
-<a align="right" href="https://github.com/TrungTruong32/Fundamental-ML" title="Fundamental Machine Learning">
-  <img align="right" height="250"
-       src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=TrungTruong32&repo=Fundamental-ML&theme=react&border_radius=10" />
-</a>
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/TrungTruong32/Web-Restaurant" title="Web Restaurant">
+        <img height="200" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=TrungTruong32&repo=Web-Restaurant&theme=react&border_radius=10" alt="Web Restaurant" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/TrungTruong32/Fundamental-ML" title="Fundamental Machine Learning">
+        <img height="200" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=TrungTruong32&repo=Fundamental-ML&theme=react&border_radius=10" alt="Fundamental Machine Learning" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/TrungTruong32/Film-Searching" title="Film Searching">
+        <img height="200" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=TrungTruong32&repo=Film-Searching&theme=react&border_radius=10" alt="Film Searching" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/TrungTruong32/YOLOv8_app" title="YOLOv8 App">
+        <img height="200" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=TrungTruong32&repo=YOLOv8_app&theme=react&border_radius=10" alt="YOLOv8 App" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 </div>
-
-<br/><br/><br/><br/><br/><br/>
-
-<div width="100%" align="center">
-
-<a align="left" href="https://github.com/TrungTruong32/Film-Searching" title="Film Searching">
-  <img align="left" height="250"
-       src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=TrungTruong32&repo=Film-Searching&theme=react&border_radius=10" />
-</a>
-
-<a align="right" href="https://github.com/TrungTruong32/YOLOv8_app" title="YOLOv8 App">
-  <img align="right" height="250"
-       src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=TrungTruong32&repo=YOLOv8_app&theme=react&border_radius=10" />
-</a>
-
-</div>
-
-<br/><br/><br/><br/><br/><br/>
 
 <h4 align="center">
   <a href="https://github.com/TrungTruong32?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
